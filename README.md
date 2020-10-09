@@ -94,8 +94,6 @@ ___
 
 ---
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheDarkW3b&show_icons=true&theme=dark" />
-
 [website]: https://thedarkw3b.github.io/darkweb/
 [telegram]: https://t.me/thedarkw3b
 [youtube]: https://youtube.com/technologyarena
