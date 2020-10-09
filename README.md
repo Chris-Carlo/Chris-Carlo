@@ -45,7 +45,6 @@ COUNTRY = "INDIA"
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Dart.png" width="40" height="40" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/Android.png" width="40" height="40" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/MongoDB.png" width="40" height="40" /></a>
-<a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/JavaScript.png" width="40" height="40" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/C.png" width="40" height="40" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/C++.png" width="40" height="40" /></a>
 <img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
