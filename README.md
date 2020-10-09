@@ -53,7 +53,7 @@ COUNTRY = "INDIA"
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/C.png" width="40" height="40" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/C++.png" width="40" height="40" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/HTML.jpg" width="40" height="40" /></a>
-<a href=""><img src="https://raw.githubusercontent.com/Chris-Carlo/Chris-Carlo/master/CSS.png" width="40" height="40" /></a>
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][mainprofile]
 </br>
 </br>
 
@@ -75,7 +75,7 @@ ___
 [<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][mainprofile]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][mainprofile]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][mainprofile]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][mainprofile]
+
 [<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][mainprofile]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][mainprofile]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][mainprofile]
@@ -91,12 +91,3 @@ ___
 
 <br />
 <br />
-
----
-
-[website]: https://thedarkw3b.github.io/darkweb/
-[telegram]: https://t.me/thedarkw3b
-[youtube]: https://youtube.com/technologyarena
-[instagram]: https://instagram.com/darkwebtg
-[stackoverflow]: https://stackoverflow.com/users/13728209/thedarkw3b
-[mainprofile]: https://github.com/TheDarkW3b
